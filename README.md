@@ -1,3 +1,1 @@
-Docker build with Packer
-
-Jenkins CI
+In this hands-on lab, you will be taking on the role of a DevOps engineer who manages a Packer file that is used to create a Docker image for one of the team's applications. You have created a new Packer file and committed it to GitHub. Now you want to automate the build process. The team has a Jenkins server that is used for running tests against the code. You have decided to create a Jenkins job to help manage the build process.
